@@ -3,6 +3,7 @@ applications:
   - name: play.spruce.cf
     routes:
       - route: spruce.cf
+      - route: www.spruce.cf
       - route: play.spruce.cf
       - route: spruce.cert.cfapps.us10.hana.ondemand.com
     memory: 64M
