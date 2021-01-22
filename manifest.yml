@@ -5,7 +5,7 @@ applications:
       - route: spruce.cf
       - route: www.spruce.cf
       - route: play.spruce.cf
-      - route: spruce.cert.cfapps.us10.hana.ondemand.com
+      - route: spruce.mybluemix.net
     memory: 64M
     instances: 2
     command: play.spruce.cf
